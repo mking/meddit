@@ -1,4 +1,4 @@
-from hello.constants import CACHE_PREFIX
+from meddit.constants import CACHE_PREFIX
 
 class Post:
     def __init__(self, id, author, created, votes):
